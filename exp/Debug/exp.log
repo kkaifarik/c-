@@ -1,0 +1,8 @@
+﻿  Form1.cpp
+C:\Users\User\source\repos\exp\Form1.h(518,20): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  main.cpp
+C:\Users\User\source\repos\exp\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\source\repos\exp\Form1.h(518,20): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  exp.vcxproj -> C:\Users\User\source\repos\exp\Debug\exp.exe
