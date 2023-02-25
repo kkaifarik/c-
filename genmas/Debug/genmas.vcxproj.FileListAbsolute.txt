@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\genmas\Debug\genmas.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\genmas\Debug\genmas.Form1.resources
+C:\Users\User\source\repos\genmas\Debug\genmas.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\genmas\Debug\genmas.exe

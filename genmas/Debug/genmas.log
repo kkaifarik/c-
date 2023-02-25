@@ -1,0 +1,10 @@
+﻿  Form1.cpp
+C:\Users\User\source\repos\genmas\Form1.h(543,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\genmas\Form1.h(847,22): warning C4101: e: неиспользованная локальная переменная
+  main.cpp
+C:\Users\User\source\repos\genmas\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\User\source\repos\genmas\Form1.h(543,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\genmas\Form1.h(847,22): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  genmas.vcxproj -> C:\Users\User\source\repos\genmas\Debug\genmas.exe
