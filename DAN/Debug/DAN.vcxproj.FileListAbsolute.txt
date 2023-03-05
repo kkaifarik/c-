@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\DAN\Debug\DAN.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\DAN\Debug\DAN.Form1.resources
+C:\Users\User\source\repos\DAN\Debug\DAN.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\DAN\Debug\DAN.exe

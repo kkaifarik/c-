@@ -1,0 +1,7 @@
+﻿  FFirst.cpp
+  Form1.cpp
+  main.cpp
+C:\Users\User\source\repos\Calc\Calc\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  FFirst.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calc.vcxproj -> C:\Users\User\source\repos\Calc\Calc\Debug\Calc.exe

@@ -1,0 +1,24 @@
+﻿  Form1.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\source\repos\DAN\Form1.h(1985,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2092,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2104,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2210,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2211,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2219,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+C:\Users\User\source\repos\DAN\main.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\source\repos\DAN\Form1.h(1985,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2092,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2104,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2210,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2211,10): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\User\source\repos\DAN\Form1.h(2219,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\User\source\repos\DAN\Form1.h(2037): warning C4715: DAN::Form1::fmat: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\DAN\Form1.h(2146): warning C4715: DAN::Form1::pmat: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\DAN\Form1.h(2037): warning C4715: DAN::Form1::fmat: значение возвращается не при всех путях выполнения
+C:\Users\User\source\repos\DAN\Form1.h(2146): warning C4715: DAN::Form1::pmat: значение возвращается не при всех путях выполнения
+  Form1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DAN.vcxproj -> C:\Users\User\source\repos\DAN\Debug\DAN.exe

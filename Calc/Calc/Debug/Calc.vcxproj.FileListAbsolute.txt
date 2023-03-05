@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\Calc\Calc\Debug\Calc.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calc\Calc\Debug\Calc.FFirst.resources
+C:\Users\User\source\repos\Calc\Calc\Debug\Calc.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\Calc\Calc\Debug\Calc.exe
